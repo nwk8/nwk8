@@ -3,7 +3,7 @@
 - 🌟 I'm interested in expanding my knowledge regarding front and back-end development
 - 🌱 I’m currently learning how to use React and Node.JS
 - 🤍 I’m looking to collaborate on other React projects to get familiar with the library
-- 📲 How to reach me ...
+- 📲 You can reach me via Linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can play 5 instruments! 
 
