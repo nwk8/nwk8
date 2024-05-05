@@ -1,3 +1,4 @@
+About Me:
 - 👋 Hi! my name is Neema Kanyi
 - 🌟 I'm interested in expanding my knowledge regarding front and back-end development
 - 🌱 I’m currently learning how to use React and Node.JS
