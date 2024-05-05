@@ -31,5 +31,7 @@
 <!---
 nwk8/nwk8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Markdown Badges
+https://github.com/Ileriayo/markdown-badges/blob/master/README.md
 [![Neema's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwk8&count_private=true&show_icons&theme=radical&hide_rank=false)](https://github.com/nwk8/github-readme-stats)
 --->
