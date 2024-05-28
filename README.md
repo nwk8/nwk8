@@ -2,7 +2,7 @@
 - 👋 Hi! my name is Neema Kanyi
 - 🌟 I'm interested in expanding my knowledge regarding front and back-end development
 - 🌱 I’m currently learning how to use React and Node.JS as well as Data Science and Big Data
-- 🤍 I’m looking to collaborate on other React projects to get familiar with the library
+- 🤍 I’m looking to collaborate with other developers on projects!
 - 📲 You can reach me via Linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can play 5 instruments! 
