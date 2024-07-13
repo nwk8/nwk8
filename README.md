@@ -5,7 +5,7 @@
 - 🤍 I’m looking to collaborate with other developers on projects!
 - 📲 You can reach me via Linkedin
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can play 5 instruments! 
+- ⚡ Fun fact: I can play 3 instruments! 
 
 ## Tech Stack 👩🏾‍💻
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
