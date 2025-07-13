@@ -1,12 +1,12 @@
 ## About Me:
 - 👋 Hi! my name is Neema Kanyi
-- 🌟 I'm interested in expanding my knowledge regarding back-end development
+- 🌟 I'm interested in AI concepts and back-end development
 - 🤍 I’m looking to collaborate with other developers on projects!
 - 📲 You can reach me via Linkedin
 - 😄 Pronouns: She/Her
 
 ## Tech Stack 👩🏾‍💻
-C	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
