@@ -1,11 +1,9 @@
 ## About Me:
 - 👋 Hi! my name is Neema Kanyi
-- 🌟 I'm interested in expanding my knowledge regarding front and back-end development
-- 🌱 I’m currently learning how to use React and Node.JS as well as various concepts in Data Science
+- 🌟 I'm interested in expanding my knowledge regarding back-end development
 - 🤍 I’m looking to collaborate with other developers on projects!
 - 📲 You can reach me via Linkedin
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can play 5 instruments! 
 
 ## Tech Stack 👩🏾‍💻
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
