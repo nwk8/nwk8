@@ -2,7 +2,6 @@
 - 👋 Hi! my name is Neema Kanyi
 - 🌟 I'm interested in AI concepts and back-end development
 - 🤍 I’m looking to collaborate with other developers on projects!
-- 📲 You can reach me via Linkedin
 - 😄 Pronouns: She/Her
 
 ## Tech Stack 👩🏾‍💻
